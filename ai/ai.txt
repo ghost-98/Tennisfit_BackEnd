@@ -1,0 +1,5 @@
+tasks folder related to ai
+
+ai_model은 최종 ai_model이다.
+
+model 폴더 내부에 있는 model은 세부적인 model이다.
